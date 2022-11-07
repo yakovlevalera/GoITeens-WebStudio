@@ -1,0 +1,59 @@
+/* :root{
+ primari  color: #212121;
+text  color:  #212121;
+secondary  color: #ffffff;
+secondary link color: #2196F3; */
+ 
+ /* header */
+ 
+ .logo {
+    color: #000000;
+}
+.logo-span,
+.nav-link:hover,
+.nav-link:focus,
+.link-item:hover,
+.link-item:focus
+{
+    color: #2196F3;
+}
+.nav-link,
+/* /header */
+.peculiarities h4,
+.what-we-do,
+.team,
+.nav-work,
+.work h2{
+    color: #212121;
+}
+/* header */
+.link-item,
+/* /header */
+.peculiarities p,
+.team p,
+.work p{
+    color: #757575;
+}
+.hero-section-title,
+.footer a ,
+.footer address,
+.nav-work:hover,
+.nav-work:focus{
+    color: #FFFFFF;
+}
+.footer li>a{
+    color: rgba(255, 255, 255, 0.6);
+}
+.hero-section,
+/* footer */
+.footer{
+    background-color: #2F303A;
+   }
+.nav-work{
+    background-color: #F5F4FA;
+   
+}
+.nav-work:hover,
+.nav-work:focus{
+    background-color: #2196F3;
+}
